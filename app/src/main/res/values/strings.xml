@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expire.ly</string>
+    <string name="item_name_hint"><font size="30">Enter item name</font></string>
+    <string name="item_details_label">Item details</string>
+    <string name="item_date_label">Choose an expiry date</string>
+    <string name="item_notified_label">Notified</string>
+    <string name="item_notificationTime_label"><font size="30">Enter notification time</font></string>
+    <string name="new_item">Add New</string>
+    <string name="action_search">Search</string>
+</resources>
